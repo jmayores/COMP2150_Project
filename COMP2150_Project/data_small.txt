@@ -1,0 +1,5 @@
+Arcturus | Betelgeuse | 6
+Rigel | Eta Carinae | 5
+Eta Carinae | Betelgeuse | 3
+Arcturus | Eta Carinae | 10
+Betelgeuse | Rigel | 2

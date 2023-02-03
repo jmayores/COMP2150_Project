@@ -1,0 +1,13 @@
+Arcturus | Canopus | 14
+Arcturus | Fumalsamakah | 2
+Arcturus | Giausar | 12
+Arcturus | Helvetios | 30
+Barnard's Star | Canopus | 11
+Canopus | Giausar | 3
+Canopus | Helvetios | 2
+Deneb Algedi | Giausar | 8
+Deneb Algedi | Helvetios | 13
+Deneb Algedi | Illyrian | 15
+Electra | Giausar | 16
+Fumalsamakah | Giausar | 1
+Illyrian | Jishui | 5
